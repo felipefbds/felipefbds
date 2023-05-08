@@ -1,16 +1,16 @@
-### Hi there 👋
+# Web Developer
 
-<!--
-**felipefbds/felipefbds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+My name is Felipe Dev, I've been working with web development for about 2 years and I'm looking for new experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Knowledge
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- React.js
+- Next.js
+- Tailwind CSS
+- Bootstrap
