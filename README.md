@@ -14,3 +14,7 @@ My name is Felipe Dev, I've been working with web development for about 2 years 
 - Next.js
 - Tailwind CSS
 - Bootstrap
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/felipe-dev-2157a3276/)
